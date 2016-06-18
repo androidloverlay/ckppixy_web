@@ -474,11 +474,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 						   <li>
 						  	<div class="img-wrapper">
-								  	<a class="img-lightbox" href="data/Photography/objects/o9.jpg"></a>
-									 <img src="data/Photography/objects/o9.jpg" class="img-responsive" alt=""/>
+								  	<a class="img-lightbox" href="data/Photography/objects/o10.jpg"></a>
+									 <img src="data/Photography/objects/o10.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Nail Art?</p>
+									<p>Time Flies</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=28>
