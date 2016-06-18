@@ -199,15 +199,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								   	</div>
 						   </li>
 
-						
-
 						     <li>
 						  	<div class="img-wrapper">
 								  	<a class="img-lightbox" href="data/Photography/scenery/sc13.jpg"></a>
 									 <img src="data/Photography/scenery/sc13.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Beautifully Complicated</p>
+									<p>Complicated</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=13>
@@ -248,11 +246,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								     </div>
 								   	</div>
 						   </li>
-
-
-						  
-
-						 
 
 						   <li>
 						  	<div class="img-wrapper">
