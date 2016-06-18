@@ -93,7 +93,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/pagoda/pa3.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Naypyidaw</p>
+									<p>Uppatasanti Pagoda</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=3>
@@ -157,7 +157,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/pagoda/pa7.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Naypyidaw</p>
+									<p>Uppatasanti Pagoda</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=7>
@@ -189,7 +189,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/pagoda/pa9.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Kyauk Kun Gu</p>
+									<p>Kyauk Kun Gu Pagoda</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=9>

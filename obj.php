@@ -302,7 +302,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/objects/obj17.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Handmake Money Fan</p>
+									<p>Money Fan</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=17>

@@ -109,7 +109,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/scenery/sc6.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Home@Outside Village</p>
+									<p>Mt Zwe Kabin</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=6>
@@ -141,7 +141,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/scenery/sc4.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Mt Zwe Kabin</p>
+									<p>Village Home</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=4>
