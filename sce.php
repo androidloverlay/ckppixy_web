@@ -199,16 +199,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								   	</div>
 						   </li>
 
-						   <li>
+						
+
+						     <li>
 						  	<div class="img-wrapper">
-								  	<a class="img-lightbox" href="data/Photography/scenery/sc10.jpg"></a>
-									 <img src="data/Photography/scenery/sc10.jpg" class="img-responsive" alt=""/>
+								  	<a class="img-lightbox" href="data/Photography/scenery/sc13.jpg"></a>
+									 <img src="data/Photography/scenery/sc13.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Sunset</p>
+									<p>Beautifully Complicated</p>
 								 </div>
 									<div class="block-likes">
-								     <div class="fa-block img-likes" data-attachid=10>
+								     <div class="fa-block img-likes" data-attachid=13>
 								       <i class="fa fa-heart-o"></i>
 								       <span class="img-likes-count">28</span>
 								     </div>
@@ -248,21 +250,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						   </li>
 
 
-						    <li>
-						  	<div class="img-wrapper">
-								  	<a class="img-lightbox" href="data/Photography/scenery/sc13.jpg"></a>
-									 <img src="data/Photography/scenery/sc13.jpg" class="img-responsive" alt=""/>
-							 </div>
-							     <div class="tab_desc">
-									<p>Beautifully Complicated</p>
-								 </div>
-									<div class="block-likes">
-								     <div class="fa-block img-likes" data-attachid=13>
-								       <i class="fa fa-heart-o"></i>
-								       <span class="img-likes-count">28</span>
-								     </div>
-								   	</div>
-						   </li>
+						  
 
 						 
 
@@ -394,6 +382,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								     </div>
 								   	</div>
 						   </li>
+
+						       <li>
+						  	<div class="img-wrapper">
+								  	<a class="img-lightbox" href="data/Photography/scenery/sc10.jpg"></a>
+									 <img src="data/Photography/scenery/sc10.jpg" class="img-responsive" alt=""/>
+							 </div>
+							     <div class="tab_desc">
+									<p>Sunset</p>
+								 </div>
+									<div class="block-likes">
+								     <div class="fa-block img-likes" data-attachid=10>
+								       <i class="fa fa-heart-o"></i>
+								       <span class="img-likes-count">28</span>
+								     </div>
+								   	</div>
+						   </li> 
 
 						   
 
