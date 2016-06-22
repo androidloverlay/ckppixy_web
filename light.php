@@ -77,7 +77,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/light/li2.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>The Fire Dance Show</p>
+									<p>Fire Dance Show</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=2>
@@ -109,7 +109,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/light/li4.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Souvenir</p>
+									<p>A Souvenir Shop</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=4>
@@ -173,7 +173,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/light/li8.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Yellow</p>
+									<p>Heart</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=8>
@@ -183,13 +183,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								   	</div>
 						   </li>
 
+						      <li>
+						  	<div class="img-wrapper">
+								  	<a class="img-lightbox" href="data/Photography/light/li11.jpg"></a>
+									 <img src="data/Photography/light/li11.jpg" class="img-responsive" alt=""/>
+							 </div>
+							     <div class="tab_desc">
+									<p>A Light</p>
+								 </div>
+									<div class="block-likes">
+								     <div class="fa-block img-likes" data-attachid=11>
+								       <i class="fa fa-heart-o"></i>
+								       <span class="img-likes-count">28</span>
+								     </div>
+								   	</div>
+						   </li>
+
+
 						   <li>
 						  	<div class="img-wrapper">
 								  	<a class="img-lightbox" href="data/Photography/light/li9.jpg"></a>
 									 <img src="data/Photography/light/li9.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Blue</p>
+									<p>Yellow</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=9>
@@ -205,7 +222,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									 <img src="data/Photography/light/li10.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>Yellow</p>
+									<p>Blue</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=10>
@@ -215,13 +232,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								   	</div>
 						   </li>
 
-						   <li>
+						<!--    <li>
 						  	<div class="img-wrapper">
 								  	<a class="img-lightbox" href="data/Photography/light/li11.jpg"></a>
 									 <img src="data/Photography/light/li11.jpg" class="img-responsive" alt=""/>
 							 </div>
 							     <div class="tab_desc">
-									<p>A Light in the Beach</p>
+									<p>A Light</p>
 								 </div>
 									<div class="block-likes">
 								     <div class="fa-block img-likes" data-attachid=11>
@@ -229,7 +246,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								       <span class="img-likes-count">28</span>
 								     </div>
 								   	</div>
-						   </li>
+						   </li> -->
 
 						   <li>
 						  	<div class="img-wrapper">
@@ -274,13 +291,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       			gallery:{enabled:true}
     		});
   		</script>
-  		<!-- <script type="text/javascript">
+  		<script type="text/javascript">
 			$(document).ready(function()
 			{ $ (document).bind("contextmenu",function(e)
 			{
 			return false;
 			});
 			});
-		</script> -->
+		</script>
 </body>
 </html>		
